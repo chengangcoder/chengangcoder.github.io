@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/05/15/hello-hexo/</loc>
+    
+    <lastmod>2020-05-15T07:19:10.734Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/06/07/RecyclerView%E5%9B%9E%E9%A1%BE/</loc>
     
     <lastmod>2018-06-07T12:16:17.626Z</lastmod>
